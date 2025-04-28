@@ -1,7 +1,7 @@
 {
    "lambdatest_auth": {
-      "username": "from plugin",
-      "access_key": "from plugin"
+      "username": " process.env.LT_USERNAME",
+      "access_key": "process.env.LT_ACCESS_KEY"
    },
    "browsers": [
       {
