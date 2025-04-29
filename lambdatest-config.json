@@ -1,9 +1,8 @@
-{
-  "lambdatest_auth": {
+ "lambdatest_auth": {
     "username": process.env.LT_USERNAME,
     "access_key": process.env.LT_ACCESS_KEY
   }
-}
+
 
    "browsers": [
       {
