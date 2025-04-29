@@ -1,3 +1,11 @@
+
+{
+  "lambdatest_auth": {
+    "username": "${LT_USERNAME}",
+    "access_key": "${LT_ACCESS_KEY}"
+  },
+
+
 {
   "browsers": [
     {
