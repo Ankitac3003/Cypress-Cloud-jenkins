@@ -28,6 +28,6 @@
   },
   "tunnel_settings": {
     "tunnel": true,
-    "tunnel_name": ankit
+    "tunnel_name": "ankit"
   }
 }
